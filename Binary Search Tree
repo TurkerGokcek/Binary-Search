@@ -1,0 +1,3 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları ;
+
+Root olarak 1'i kabul edersek root'dan büyük olanlar sağ tarafta, küçük olanlar ise sol tarafta kalacaktır.
